@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Portfolio: Mohammed Abdul Raheem 
 
-You can use the [editor on GitHub](https://github.com/abdulraheem99963/abdulraheem99963.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my portfolio.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Studying at BITS Pilani-Work INtegrated LEarning Program
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Name : Mohammed Abdul Raheem 
+# Roll No: 2020sp93049
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Skills
+JAVA, JAVASCRIPT
 
-**Bold** and _Italic_ and `Code` text
+### Contact
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abdulraheem99963/abdulraheem99963.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+BITS emailId: 2020sp93049@wilp.bits-pilani.ac.in
+Personal emailId: m.abdulraheem021@gmail.com
