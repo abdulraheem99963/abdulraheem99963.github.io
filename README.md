@@ -6,8 +6,6 @@ Welcome to my portfolio.
 
 Studying at BITS Pilani-Work INtegrated LEarning Program
 
-```markdown
-Syntax highlighted code block
 
 # Name : Mohammed Abdul Raheem 
 # Roll No: 2020sp93049
