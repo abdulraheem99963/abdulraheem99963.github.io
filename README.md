@@ -4,7 +4,7 @@ Welcome to my portfolio.
 
 ### Education
 
-Studying at BITS Pilani-Work INtegrated LEarning Program
+Studying at BITS Pilani-Work Integrated Learning Program
 
 
 # Name : Mohammed Abdul Raheem 
